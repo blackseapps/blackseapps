@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/blackseapps">Mert - Updating</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/blackseapps">Mert </a></h2>- Updating...
 <p align="center">
   <a href="https://www.linkedin.com/in/mertkaradeniz/">Linkedin</a> •
   <a href="https://twitter.com/mertkrdeniz">Twitter</a>
