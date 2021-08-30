@@ -11,6 +11,11 @@ Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, R
 
 <br>
 <br>
+</br>
+
+ 
+ ![](https://komarev.com/ghpvc/?username=blackseapps&style=flat-square)
+
 
 -----
 
@@ -36,23 +41,8 @@ Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, R
             color: #ffffff;
           "
       /></a>
-      <span>&nbsp;&nbsp;</span>
-      <a href="https://github.com/blackseapps " style="text-decoration: none"
-        ><img
-          src="http://mertkaradeniz.com/email/images/github-sign-3-SCo.png"
-          width="24"
-          height="24"
-          alt="Github"
-          style="
-            border: 0;
-            line-height: 100%;
-            outline: 0;
-            -ms-interpolation-mode: bicubic;
-            color: #ffffff;
-          "
-      /></a>
-      <span>&nbsp;&nbsp;</span
-      ><a
+     <span></span>
+     <a
         href="https://www.udemy.com/user/mert-karadeniz-4/"
         style="text-decoration: none"
         ><img
@@ -67,7 +57,7 @@ Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, R
             -ms-interpolation-mode: bicubic;
             color: #ffffff;
           " /></a
-      ><span>&nbsp;&nbsp;</span
+      ><span>&nbsp;</span
       ><a href="https://bionluk.com/blackseapp" style="text-decoration: none"
         ><img
           src="http://mertkaradeniz.com/email/images/unnamed-Ir7.png"
@@ -86,9 +76,7 @@ Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, R
   </tr>
 </tbody>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/blackseapps/count.svg" />
-</p>
-
+</br>
+</br>
 
 Last Edited on: 30/08/2021
