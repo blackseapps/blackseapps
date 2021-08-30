@@ -4,7 +4,7 @@
 
 <br>
 He was born in Trabzon in 1996. He completed his undergraduate education at Sakarya University in 2019 and graduated. He has been developing software for 9 years, including his student years. He has been involved in many <a href="https://bionluk.com/blackseapp" style="text-decoration: none">freelance</a> jobs and has developed and developed <a href="https://github.com/blackseapps?tab=repositories" style="text-decoration: none">projects</a>.
-He develops mobile applications with Android (4 years) and React Native (1 year).
+He develops mobile applications with Android (4 years) and React Native (1.5 year).
 </br>
 </br>
 Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, Redux-Thunk, Solid Programming
