@@ -1,6 +1,6 @@
 <h2>Hi, I'm Mert 🤘 👋</h2>
 
-<img align="right" height="150rem" alt="GIF" src="http://mertkaradeniz.com/files/giphy.gif" />
+<img align="right" height="150rem" alt="GIF" src="http://mertkaradeniz.com/files/giphy2.gif" />
 
 <br>
 He was born in Trabzon in 1996. He completed his undergraduate education at Sakarya University in 2019 and graduated. He has been developing software for 9 years, including his student years. He has been involved in many <a href="https://bionluk.com/blackseapp" style="text-decoration: none">freelance</a> jobs and has developed and developed <a href="https://github.com/blackseapps?tab=repositories" style="text-decoration: none">projects</a>.
