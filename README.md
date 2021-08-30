@@ -1,4 +1,4 @@
-<h2>Hi, I'm Mert.</h2>
+<h2>Hi, I'm Mert 🤘 👋</h2>
 
 <img align="right" height="150rem" alt="GIF" src="http://mertkaradeniz.com/files/giphy.gif" />
 
