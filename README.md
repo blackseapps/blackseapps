@@ -1,23 +1,28 @@
-<h2 align="center">Hey, I'm <a href="https://github.com/blackseapps">Mert </a>- Updating...</h2>
+<h2 align="center">Hey, I'm <a href="https://github.com/blackseapps">Mert K.</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mertkaradeniz/">Linkedin</a> •
-  <a href="https://twitter.com/mertkrdeniz">Twitter</a>
+  <a href="https://www.linkedin.com/in/mertkaradeniz/"  target="_blank">Linkedin</a> •
+  <a href="https://twitter.com/mertkrdeniz"  target="_blank">Twitter</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-
+<img align="right" height="150rem" alt="GIF" src="http://mertkaradeniz.com/files/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻   
 - 🌱  
 - 💬   
-- 📫   How to reach me: i@mertkaradeniz.com
+- 📫   How to reach me: http://mertkaradeniz.com/email
 
 ***
 
- <br>
+<br>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackseapps&layout=compact)](https://github.com/blackseapps/github-readme-stats)
+<br>
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackseapps&show_icons=true)
 
 
 
