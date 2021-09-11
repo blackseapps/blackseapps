@@ -7,7 +7,7 @@ He was born in Trabzon in 1996. He completed his undergraduate education at Saka
 He develops mobile applications with Android (4 years) and React Native (1.5 year).
 </br>
 </br>
-Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, Redux-Thunk, Solid Programming
+Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, Redux-Thunk, SOLID
 
 <br>
 <br>
@@ -79,4 +79,4 @@ Java, Android, React Native, C#, SQL, OOP, MVC, CSS, Xml, Rest API, JS, Redux, R
 </br>
 </br>
 
-Last Edited on: 30/08/2021
+Last Edited on: 12/09/2021
