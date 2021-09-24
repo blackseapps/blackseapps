@@ -11,7 +11,8 @@ develops mobile applications with Android (4 years) and React Native (a year).
 
 <b>Devices:</b> Phone, Tablet, PC </br>
 <b>Mobile Platforms:</b> Hybrid, Native, Android, Windows  </br>
-<b>Mobile Programming Languages:</b> Java, JavaScript, C#, PHP  </br>
+<b>Mobile Programming Languages:</b> Java, JavaScript  </br>
+<b>Other Programming Languages:</b> C#, PHP  </br>
 <b>Mobile App Development Skills:</b> React Native, Redux-Thunk, Firebase, Retrofit, Android Studio, RESTful  </br>
 <b>App Development Skills:</b> Design Patterns, SOLID, Clean Code </br>
 <b>Databases:</b> SQLite, MySQL  </br>
