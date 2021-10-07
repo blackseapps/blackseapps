@@ -1,5 +1,3 @@
-<h2>Hi, I'm Mert 🤘 👋</h2>
-
 <img align="center" height="150rem" alt="PNG" src="http://mertkaradeniz.com/files/banner2.png" />
 
 
