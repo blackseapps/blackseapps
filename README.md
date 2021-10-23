@@ -5,21 +5,17 @@
 
 <br>
 
-He was born in 1996, Trabzon. He graduated "Computer Teacher" department of Sakarya University
-in 2019. He has been developing software for 9 years, including when he was student. He has been
-<a href="https://bionluk.com/blackseapp" style="text-decoration: none">worked</a> and developed on many projects and keep working for own projects and <a href="https://github.com/blackseapps?tab=repositories" style="text-decoration: none">another</a>.He
-develops mobile applications with Android (4 years) and React Native (a year).
 
-<b>Devices:</b> Phone, Tablet, PC </br>
-<b>Mobile Platforms:</b> Hybrid, Native, Android, Windows  </br>
+He was born on July 2, 1996 in Trabzon. He studied at the Technical High School Informatics Department. Graduated from Computer and Instruction Department in 2019. He did Software development for 10 years. He has been continuing his career as an android mobile developer for the last 4 years. He participated in many freelance projects. He is an educator on <a href="https://www.udemy.com/user/mert-karadeniz-4/" style="text-decoration: none">Udemy</a>.
+
+
+
 <b>Mobile Programming Languages:</b> Java, JavaScript  </br>
 <b>Other Programming Languages:</b> C#, PHP  </br>
 <b>Mobile App Development Skills:</b> React Native, Redux-Thunk, Firebase, Retrofit, Android Studio, RESTful  </br>
-<b>App Development Skills:</b> Design Patterns, SOLID, Clean Code </br>
-<b>Databases:</b> SQLite, MySQL  </br>
+<b>App Development Skills:</b> Architecture Design,GoF Design Patterns, SOLID, Clean Code </br>
 <b>Paradigms:</b> Object-oriented programming, Declarative programming </br>
 <b>Other Skills:</b> Figma, Adobe XD </br>
-<b>Business Size Experience:</b> Very Small (1-9 employees), Small (10-99 employees), Startup </br>
 
 <br>
 
@@ -88,4 +84,4 @@ develops mobile applications with Android (4 years) and React Native (a year).
 </br>
 </br>
 
-Last Edited on: 24/09/2021
+Last Edited on: 23/10/2021
