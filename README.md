@@ -1,7 +1,7 @@
-<img align="center" height="150rem" alt="PNG" src="http://mertkaradeniz.com/files/banner2.png" />
+<img align="center" height="150rem" alt="PNG" src="https://www.mertkaradeniz.com/files/banner2.png" />
 
 
-<img align="right" height="150rem" alt="GIF" src="http://mertkaradeniz.com/files/giphy2.gif" />
+<img align="right" height="150rem" alt="GIF" src="https://www.mertkaradeniz.com/files/giphy2.gif" />
 
 <br>
 
@@ -34,7 +34,7 @@ He was born on July 2, 1996 in Trabzon. He studied at the Technical High School 
         href="https://www.linkedin.com/in/mertkaradeniz/"
         style="text-decoration: none"
         ><img
-          src="http://mertkaradeniz.com/email/images/linkedin-3-lDv.png"
+          src="https://mertkaradeniz.com/email/images/linkedin-3-lDv.png"
           width="24"
           height="24"
           alt="Linkedin"
@@ -51,7 +51,7 @@ He was born on July 2, 1996 in Trabzon. He studied at the Technical High School 
         href="https://www.udemy.com/user/mert-karadeniz-4/"
         style="text-decoration: none"
         ><img
-          src="http://mertkaradeniz.com/email/images/Udemy-MU4.png"
+          src="https://mertkaradeniz.com/email/images/Udemy-MU4.png"
           width="24"
           height="24"
           alt="Udemy"
@@ -65,7 +65,7 @@ He was born on July 2, 1996 in Trabzon. He studied at the Technical High School 
       ><span>&nbsp;</span
       ><a href="https://bionluk.com/blackseapp" style="text-decoration: none"
         ><img
-          src="http://mertkaradeniz.com/email/images/unnamed-Ir7.png"
+          src="https://mertkaradeniz.com/email/images/unnamed-Ir7.png"
           width="24"
           height="24"
           alt="Bionluk"
