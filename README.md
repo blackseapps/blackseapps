@@ -9,14 +9,6 @@
 He was born on 1996 in Trabzon. He studied at the Technical High School Informatics Department. Graduated from Computer and Instruction Department in 2019. He did Software development for 10 years. He has been continuing his career as an android mobile developer for the last 4 years. He participated in many freelance projects. He is an educator on <a href="https://www.udemy.com/user/mert-karadeniz-4/" style="text-decoration: none">Udemy</a>.
 
 
-
-<b>Mobile Programming Languages:</b> Java, JavaScript  </br>
-<b>Other Programming Languages:</b> C#, PHP  </br>
-<b>Mobile App Development Skills:</b> React Native, Redux-Thunk, Firebase, Retrofit, Android Studio, RESTful  </br>
-<b>App Development Skills:</b> Architecture Design,GoF Design Patterns, SOLID, Clean Code </br>
-<b>Paradigms:</b> Object-oriented programming, Declarative programming </br>
-<b>Other Skills:</b> Figma, Adobe XD </br>
-
 <br>
 
  ![](https://komarev.com/ghpvc/?username=blackseapps&style=flat-square)
