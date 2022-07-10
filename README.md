@@ -6,7 +6,7 @@
 <br>
 
 
-He was born on 1996 in Trabzon. He studied at the Technical High School Informatics Department. Graduated from Computer and Instruction Department in 2019. He did Software development for 10 years. He has been continuing his career as an android mobile developer for the last 4 years. He participated in many freelance projects. He is an educator on <a href="https://www.udemy.com/user/mert-karadeniz-4/" style="text-decoration: none">Udemy</a>.
+He was born on 1996 in Trabzon. He studied at the Technical High School Informatics Department. Graduated from Computer and Instruction Department in 2019. He did Software development for 10 years. He has been continuing his career as an android mobile developer for the last 5 years. He participated in many freelance projects. He is an educator on <a href="https://www.udemy.com/user/mert-karadeniz-4/" style="text-decoration: none">Udemy</a>.
 
 
 <br>
@@ -76,4 +76,4 @@ He was born on 1996 in Trabzon. He studied at the Technical High School Informat
 </br>
 </br>
 
-Last Edited on: 23/10/2021
+Last Edited on: 11/07/2022
