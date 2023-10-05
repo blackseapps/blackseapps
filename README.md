@@ -55,20 +55,7 @@ He studied at the Technical High School Informatics Department. Graduated from C
             color: #ffffff;
           " /></a
       ><span>&nbsp;</span
-      ><a href="https://bionluk.com/blackseapp" style="text-decoration: none"
-        ><img
-          src="https://blackseapps.net/email/images/unnamed-Ir7.png"
-          width="24"
-          height="24"
-          alt="Bionluk"
-          style="
-            border: 0;
-            line-height: 100%;
-            outline: 0;
-            -ms-interpolation-mode: bicubic;
-            color: #ffffff;
-          "
-      /></a>
+      >
     </td>
   </tr>
 </tbody>
